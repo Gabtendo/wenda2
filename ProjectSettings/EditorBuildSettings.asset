@@ -1,0 +1,181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/Start
+      Screen.unity
+    guid: 2db395b9e6a0c574783076830b4e5ef9
+  - enabled: 1
+    path: Assets/Cut Scenes/Dialogue.unity
+    guid: 142273ab43d08124c952fd21596cb45a
+  - enabled: 1
+    path: Assets/Cut Scenes/Dialogue1.unity
+    guid: 2b2c1d97a14217949b5b2d01e5de16b5
+  - enabled: 1
+    path: Assets/Cut Scenes/Dialogue2.unity
+    guid: fc9d65c4501a7b34581b696a62d626bb
+  - enabled: 1
+    path: Assets/Cut Scenes/Dialogue3.unity
+    guid: 80d17319a670ce3498e2287a4b20f776
+  - enabled: 1
+    path: Assets/Cut Scenes/Dialogue4.unity
+    guid: 8089d3b3e09ee1f459284b36395a84a2
+  - enabled: 1
+    path: Assets/Cut Scenes/Dialogue5.unity
+    guid: ebfeb39995c0fd04ebf733644523a84e
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/SampleScene
+      1.unity
+    guid: 88aa933a512be784d9700afc01c95a2c
+  - enabled: 1
+    path: Assets/Cut Scenes/Dialogue7.unity
+    guid: 52e1805f24a1b684ea432e8820f0a31a
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/LOOSE.unity
+    guid: 923f7d0eb90a94d4b9faa7d77bb3f61b
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/ActualGame.unity
+    guid: da5fc7071a716f7429de3dfeebb3f623
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/Avatar.unity
+    guid: 79c27df570f924a4882e39c30a226f37
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/ActualGame2.unity
+    guid: 8fb46229dfb8917469c782c878058835
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/WendaCutscene1.unity
+    guid: 306882c8e47f88343a9f5e9352e4828a
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/Wenda
+      Cutscene.unity
+    guid: b3f6d59386c77574bba69bf6bed0ba46
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/WendaCutscene3.unity
+    guid: e47d3ffc838fa8841a9f265f5f4d7199
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/WendaCutscene4.unity
+    guid: 348391e690b78084cb1c14756c5d246a
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/SAVED.unity
+    guid: d400e6e08b0446e4097b5f0390408b5e
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/Mystic
+      Falls 1.unity
+    guid: cd1da6ea45f9e334cb54909066524a55
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/Mystic
+      Falls.unity
+    guid: 11ee89db829bf454a8a50c8cc9ed673b
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/Mystic
+      Falls 2.unity
+    guid: cc41649b4e0b2c44bb423d05edefcbd4
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/Mystic
+      Falls 3.unity
+    guid: 20df2e07290307d48b3a3b789bb45274
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/Avatar
+      1.unity
+    guid: 1ad2a079a360bca4785b9dca2aeddd9a
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/ActualGame2
+      2.unity
+    guid: 89617e655e9caf342ba8de7c26578e07
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/FINAL
+      BOSS.unity
+    guid: 44f2d6be4c6478f45bd6f76b90fb5a37
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/FINAL
+      BOSS 4.unity
+    guid: 6ffb09e9f878e4a428c9b91575647e08
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/FINAL
+      BOSS 5.unity
+    guid: 6ba6dedf8504458418a9d85a2f688f13
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/FINAL
+      BOSS 6.unity
+    guid: 4ed11248d808300408c59707373e1d2d
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/FINAL
+      BOSS 7.unity
+    guid: 4cc1984db8914b848801944c019497d2
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/FINAL
+      BOSS 8.unity
+    guid: 9f6097e87f7d664409e0c61406ffc70a
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/FINAL
+      BOSS 9.unity
+    guid: 4cd83a51f5416ac419b9febe1b877695
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/FINAL
+      BOSS 10.unity
+    guid: 280a0b10828adcc469bff3800c2344de
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/FINAL
+      BOSS 11.unity
+    guid: d52f48a9df8231342a8fa5a574bf0890
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/FINAL
+      BOSS 12.unity
+    guid: 1a385e3a456a2cb4dbed5d2e3f404194
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/FINAL
+      BOSS 13.unity
+    guid: 1159a9b2f9ae57e4da8efc7857c889ac
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/FINAL
+      BOSS 14.unity
+    guid: 92008482c8701544c94c27e58eac64b1
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/FINAL
+      BOSS 15.unity
+    guid: 69cecf206fec0d644a05d4f60ad8631e
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/FINAL
+      BOSS 17.unity
+    guid: e3eee778757592245aac098bdeec81cc
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/FINAL
+      BOSS 16.unity
+    guid: 7f3beebef54ac2f4fb4054bfada1aca9
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/FINAL
+      BOSS 18.unity
+    guid: 08cfdd3a52779b24c83dbdd46eda4071
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/FINAL
+      BOSS 19.unity
+    guid: 331c3893e2c576f45b89c3ef4c55f912
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/FINAL
+      BOSS 20.unity
+    guid: 4785256632335084db2dcc7580dddc47
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/FINAL
+      BOSS 02.unity
+    guid: 347718e8dc9afa64e84edd3473249b0f
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/FINAL
+      BOSS 1.unity
+    guid: ebf32c5fb9a79644db34368ee5527517
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/FINAL
+      BOSS 2.unity
+    guid: d10e4de138a2dc745abc8428d542e226
+  - enabled: 1
+    path: Assets/Low Poly Buildings Full Pack/Low Poly Buildings Enviroment/Scenes/FINAL
+      BOSS 3.unity
+    guid: 2cc70fd83361f2e419e1017376a41059
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
